@@ -1,0 +1,11 @@
+#avatar {
+    width: 50px;
+}
+
+#avatar-div {
+    padding: 0 20px 0 5px;
+}
+
+#post {
+    align-items: baseline;
+}
